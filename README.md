@@ -1,4 +1,4 @@
-![image](https://github.com/kailash2506/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149034874/67693258-3c1a-4ef0-8359-05a8dfc6c767)## NAME: KAILASH KUMAR.S
+## NAME: KAILASH KUMAR.S
 ## REGISTER NUMBER: 212223220041
 
 # Experiment--05-Implementation-of-flipflops-using-verilog
